@@ -3,16 +3,16 @@ Modeling a Bank Account System using Object Oriented Programming.
 
 The BankAccount is an implementation of a banking system. It models the banking System using Object Oriented Programming.
 
-Getting Started
+Getting Started:
 The following instruction provides a guide on how to get a copy of this project running on your local machine.
 
-#Prerequisites
+Prerequisites:
 For this project to run succesfully, make sure you have the following installed:
 	1. node.js
 	2. mocha
 	3. chai
 
-Installation
+Installation:
 1. clone this repo to your local machine:
 	a. navigate to your choice directory from your GitBash and type:
 		git clone https://github.com/Eberechi-Daniel/aritGeo.git or
@@ -24,9 +24,6 @@ Installation
 	a. npm install mocha --save 
 	b. npm install chai --save
 
-Running the tests
-Navigate to the test directory in the aritGeo directory and run the test.js file by typing:
-	npm test
 
 Author:
-See package.json file. 
+Nwoge Eberechi. 
