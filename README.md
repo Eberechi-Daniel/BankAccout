@@ -15,12 +15,12 @@ For this project to run succesfully, make sure you have the following installed:
 Installation:
 1. clone this repo to your local machine:
 	a. navigate to your choice directory from your GitBash and type:
-		git clone https://github.com/Eberechi-Daniel/aritGeo.git or
+		git clone https://github.com/Eberechi-Daniel/BankAccout.git or
 	b. download the zip folder to your local machine and extract the files.
 
 2. install node.js on your local machine
 
-3. from your GitBash, navigate to the aritGeo directory and install mocha and chai as dependencies by typing
+3. from your GitBash, navigate to the BankAccout directory and install mocha and chai as dependencies by typing
 	a. npm install mocha --save 
 	b. npm install chai --save
 
